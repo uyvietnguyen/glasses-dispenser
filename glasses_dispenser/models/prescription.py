@@ -1,6 +1,3 @@
-from _decimal import Decimal
-
-
 class Prescription:
     def __init__(self, sphere, cylinder, axis, add):
         sphere = '{:.2f}'.format(round(sphere, 2))

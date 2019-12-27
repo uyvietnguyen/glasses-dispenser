@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cfd4e7-04d9-4260-ad47-f6da3105d0e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/glasses-dispenser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/glasses-dispenser.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/models/glasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/models/glasses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/models/prescription.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/models/prescription.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/routes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/routes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/routes/page.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/routes/page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/services/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/services/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glasses-dispenser/services/dispense.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/services/dispense.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glasses_dispenser/models/prescription.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/models/prescription.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glasses_dispenser/services/dispense.py" beforeDir="false" afterPath="$PROJECT_DIR$/glasses_dispenser/services/dispense.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
