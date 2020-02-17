@@ -14,3 +14,6 @@ A recommend way to run this application, would be:
 Create a virtualenv
 After activated the virtualenv, run pip3 install -r requirement.txt
 run FLASK_ENV=development FLASK_APP=__init__.py flask run to start the application.
+
+
+npm start to run front end
