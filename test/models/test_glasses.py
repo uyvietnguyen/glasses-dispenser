@@ -5,7 +5,7 @@ from models.prescription import Prescription
 
 
 class TestGlasses(unittest.TestCase):
-    def test(self):
+    def test_createGlasses(self):
         right_eye_prescription = Prescription(-3.50, -1.00, 90, None)
         left_eye_prescription = Prescription(-3.50, -1.00, 90, None)
 
